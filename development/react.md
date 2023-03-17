@@ -17,9 +17,9 @@
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[Front end React Wild Book](https://github.com/Synchy/Front-React-JS-Wild-Book)
 
 Description :
 
