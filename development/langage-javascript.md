@@ -19,9 +19,9 @@
 (e) => mc2;
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[Utilisation javascript dans un back en nodeJS](https://github.com/Synchy/node-live-coding)
 
 Description :
 
