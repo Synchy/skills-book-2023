@@ -21,9 +21,9 @@
 const convertMDFileToHTML = (pathToMDfile) => /* ... path to HTML file */
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
-[lien github](...)
+[Back en nodeJS](https://github.com/Synchy/node-live-coding)
 
 Description :
 
