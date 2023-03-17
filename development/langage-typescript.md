@@ -15,11 +15,11 @@
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[React-to-typescript](https://github.com/Synchy/React-to-TS)
 
-Description :
+Description : Passage en typescript de l'application en front d'un app en Reactjs
 
 ### Utilisation en production si applicable❌ / ✔️
 
