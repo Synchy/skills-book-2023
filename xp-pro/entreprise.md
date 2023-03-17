@@ -1,4 +1,4 @@
-# Le nom de l'entreprise
+# Fondation JAE
 
 ## L'activité principale
 
